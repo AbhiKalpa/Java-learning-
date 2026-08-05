@@ -1,3 +1,5 @@
+package while_loop;
+
 public class Sum_of_1_to_50 {
     public static void main(String[] args){
      int i=0;

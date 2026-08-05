@@ -33,7 +33,7 @@ exercise :-
 program prints numbers from 1 to 50.
 
     import java.util.Scanner;
-    public class Sum_of_1_to_50 {
+    public class while_loop.Sum_of_1_to_50 {
     public static void main(String[] args){
     int i=0;
     while(i<=50){
