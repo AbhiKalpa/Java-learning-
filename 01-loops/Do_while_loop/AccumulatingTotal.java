@@ -15,6 +15,7 @@ public class AccumulatingTotal {
 
         }while( input !=0 );
         System.out.println("the total sum " + sum);
+        sc.close();
     }
 
 }
