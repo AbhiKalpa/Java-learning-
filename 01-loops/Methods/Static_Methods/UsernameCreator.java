@@ -1,4 +1,4 @@
-package Methods;
+package Methods.Static_Methods;
 
 public class UsernameCreator {
     public static String userName(String first_name, String last_name){

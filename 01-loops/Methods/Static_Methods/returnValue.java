@@ -1,4 +1,4 @@
-package Methods;
+package Methods.Static_Methods;
 
 public class returnValue{
     public static int addNumbers( int num1, int num2){

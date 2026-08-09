@@ -1,4 +1,4 @@
-package Methods;
+package Methods.Static_Methods;
 
 public class AgeChecker {
     public static boolean agecheck(int age){

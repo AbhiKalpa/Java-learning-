@@ -1,4 +1,4 @@
-package Methods;
+package Methods.Static_Methods;
 
 public class TheMultiplier {
     public static int multipier(int a , int b){
