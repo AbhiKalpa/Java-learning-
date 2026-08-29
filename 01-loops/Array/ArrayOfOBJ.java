@@ -1,4 +1,5 @@
 package Array;
+import java.util.Arrays;
 class Student{
     // name,rollno,adress,mobileno;
 
@@ -28,7 +29,10 @@ public class ArrayOfOBJ {
         std[2] = new Student("Rahul",97,"Dharashiv","1010101010");
 
 
-        System.out.println(std[0].name);
+        for(int i =0; i<std.length; i++){
+            System.out.println("name : " +std[i].name +" RollNo: " + std[i].rollNo + " Address : "+std[i].address + "MobileNo : "+std[i].mobileNo );
+            System.out.println(" ");
+        }
     }
 
 
