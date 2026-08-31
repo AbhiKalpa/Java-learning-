@@ -19,6 +19,7 @@ public class TwoDimentional {
         System.out.print(nos[1][0]+" ");
         System.out.print(nos[1][1]+" ");
         System.out.print(nos[1][2]+" ");
+        System.out.println("");
         System.out.println(nos.length);
     }
 }
